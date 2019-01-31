@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548954691 source:c:\users\charl\desktop\c tutorials\searchsubstring\main.c
+	<stdio.h>
+	<stdlib.h>
+

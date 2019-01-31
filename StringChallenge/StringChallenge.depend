@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548964712 source:c:\users\charl\desktop\c tutorials\stringchallenge\main.c
+	<stdio.h>
+	<stdlib.h>
+
